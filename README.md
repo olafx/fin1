@@ -14,7 +14,7 @@ Main limitations:
 - Adjust statistical distribution of model and option parameters away from uniform, to produce more of the samples the DNN struggles with.
 - Improve the somewhat simplistic model, and hyperparameter optimization.
 
-![early_MC_ML_BSM_E_4](https://raw.githubusercontent.com/olafx/fin0/refs/heads/main/docs/img/early_MC_ML_BSM_E/4.png)
+![early_MC_ML_BSM_E_4](https://raw.githubusercontent.com/olafx/fin1/refs/heads/main/docs/img/early_MC_ML_BSM_E/4.png)
 
 ---
 
@@ -22,13 +22,13 @@ Pricing down-and-out European barrier options under the bilateral gamma model.
 Pricing done via Monte Carlo sampling with adaptive importance sampling, changing the measure of the process by adjusting the rates.
 Pricing is done in efficiently in parallel, written in C++.
 
-![BG_1](https://raw.githubusercontent.com/olafx/fin0/refs/heads/main/docs/img/BG/1.png)
-![BG_2](https://raw.githubusercontent.com/olafx/fin0/refs/heads/main/docs/img/BG/2.png)
-![BG_3](https://raw.githubusercontent.com/olafx/fin0/refs/heads/main/docs/img/BG/3.png)
-![BG_4](https://raw.githubusercontent.com/olafx/fin0/refs/heads/main/docs/img/BG/4.png)
-![BG_5](https://raw.githubusercontent.com/olafx/fin0/refs/heads/main/docs/img/BG/5.png)
-![BG_6](https://raw.githubusercontent.com/olafx/fin0/refs/heads/main/docs/img/BG/6.png)
-![BG_7](https://raw.githubusercontent.com/olafx/fin0/refs/heads/main/docs/img/BG/7.png)
-![BG_8](https://raw.githubusercontent.com/olafx/fin0/refs/heads/main/docs/img/BG/8.png)
-![BG_9](https://raw.githubusercontent.com/olafx/fin0/refs/heads/main/docs/img/BG/9.png)
-![BG_10](https://raw.githubusercontent.com/olafx/fin0/refs/heads/main/docs/img/BG/10.png)
+![BG_1](https://raw.githubusercontent.com/olafx/fin1/refs/heads/main/docs/img/BG/1.png)
+![BG_2](https://raw.githubusercontent.com/olafx/fin1/refs/heads/main/docs/img/BG/2.png)
+![BG_3](https://raw.githubusercontent.com/olafx/fin1/refs/heads/main/docs/img/BG/3.png)
+![BG_4](https://raw.githubusercontent.com/olafx/fin1/refs/heads/main/docs/img/BG/4.png)
+![BG_5](https://raw.githubusercontent.com/olafx/fin1/refs/heads/main/docs/img/BG/5.png)
+![BG_6](https://raw.githubusercontent.com/olafx/fin1/refs/heads/main/docs/img/BG/6.png)
+![BG_7](https://raw.githubusercontent.com/olafx/fin1/refs/heads/main/docs/img/BG/7.png)
+![BG_8](https://raw.githubusercontent.com/olafx/fin1/refs/heads/main/docs/img/BG/8.png)
+![BG_9](https://raw.githubusercontent.com/olafx/fin1/refs/heads/main/docs/img/BG/9.png)
+![BG_10](https://raw.githubusercontent.com/olafx/fin1/refs/heads/main/docs/img/BG/10.png)
