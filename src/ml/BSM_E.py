@@ -121,7 +121,7 @@ if __name__ == '__main__':
   plt.xlim(0, n_epochs)
   plt.yscale('log')
   plt.xlabel('epoch')
-  plt.ylabel('L1 train')
+  plt.ylabel('rel MSE train')
   plt.tight_layout()
   plt.figure(2)
   plt.xlim(0, n_epochs)
